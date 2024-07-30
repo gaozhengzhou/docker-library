@@ -1,0 +1,15 @@
+packaging==23.1
+docx==0.2.4
+docxtpl==0.17.0
+Flask==3.0.3
+numpy==1.22.4
+openai==1.33.0
+openpyxl==3.1.2
+pandas==2.0.2
+pyautogen==0.2.27
+pydantic==1.10.13
+python_docx==1.1.1
+tqdm==4.64.1
+typing_extensions==4.12.2
+matplotlib==3.3.4
+qiniu==7.13.2
