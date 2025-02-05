@@ -1,0 +1,1 @@
+FROM ghcr.io/huggingface/text-embeddings-inference:1.6
