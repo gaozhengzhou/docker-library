@@ -1,0 +1,1 @@
+FROM tdengine/tdengine:3.3.3.0
